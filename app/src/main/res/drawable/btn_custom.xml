@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#FFFF"
+        android:endColor="#D3E68C"
+    />
+    <corners
+        android:topLeftRadius="@android:dimen/app_icon_size"
+        android:topRightRadius="@android:dimen/app_icon_size"
+        android:bottomLeftRadius="@android:dimen/app_icon_size"
+        android:bottomRightRadius="@android:dimen/app_icon_size"
+        />
+
+
+</shape>

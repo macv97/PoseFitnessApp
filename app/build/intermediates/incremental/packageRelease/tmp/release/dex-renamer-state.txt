@@ -1,0 +1,4 @@
+#Mon Dec 28 16:19:16 CET 2020
+base.0=D\:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

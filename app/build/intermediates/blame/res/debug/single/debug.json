@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_iconoapp_round.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\iconoapp_round.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_iconoapp_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xxhdpi\\iconoapp_foreground.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logopfa.PNG.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\logopfa.PNG"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_action.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\action.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abs.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\abs.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.jpg.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_planks.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\planks.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plancha.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\plancha.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_iconoapp_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-mdpi\\iconoapp_foreground.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_iconoapp.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\iconoapp.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_iconoapp.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-mdpi\\iconoapp.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_iconoapp_round.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-anydpi-v26\\iconoapp_round.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_iconoapp_round.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-mdpi\\iconoapp_round.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_pn_activity_camera.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\layout\\tfe_pn_activity_camera.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_iconoapp.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-hdpi\\iconoapp.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_iconoapp.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xhdpi\\iconoapp.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pushup.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\pushup.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_pn_activity_test.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\layout\\tfe_pn_activity_test.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_iconoapp_round.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-hdpi\\iconoapp_round.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_iconoapp_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xhdpi\\iconoapp_foreground.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_back_custom.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable-v24\\back_custom.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_iconoapp_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\iconoapp_foreground.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_iconoapp_round.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xxhdpi\\iconoapp_round.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_custom.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\btn_custom.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_iconoapp_round.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xhdpi\\iconoapp_round.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_iconoapp.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xxhdpi\\iconoapp.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconoapp_background.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\iconoapp_background.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_iconoapp.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-anydpi-v26\\iconoapp.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_pn_activity_posenet.xml.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\layout\\tfe_pn_activity_posenet.xml"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_squat.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\drawable\\squat.png"
+    },
+    {
+        "merged": "C:\\androidProyecto\\androidProyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_iconoapp_foreground.png.flat",
+        "source": "C:\\androidProyecto\\androidProyecto\\app\\src\\main\\res\\mipmap-hdpi\\iconoapp_foreground.png"
+    }
+]

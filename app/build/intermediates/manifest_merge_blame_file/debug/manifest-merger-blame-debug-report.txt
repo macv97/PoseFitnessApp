@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.posenet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:11:3-15
+8        android:minSdkVersion="21"
+8-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:11:3-15
+9        android:targetSdkVersion="23" />
+9-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:11:3-15
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:5:3-63
+11-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:5:20-60
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:7:3-58
+13-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:7:17-55
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:8:3-68
+14-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:8:17-65
+15
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:9:3-79
+16-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:9:20-76
+17
+18    <application
+18-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:13:3-34:17
+19        android:allowBackup="true"
+19-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:14:7-33
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.2.0] C:\Users\macv2\.gradle\caches\transforms-2\files-2.1\8976eed12a9bb5ce3b07acc4f873cd96\core-1.2.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/iconoapp"
+22-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:15:7-38
+23        android:label="@string/tfe_pn_app_name"
+23-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:16:7-46
+24        android:roundIcon="@mipmap/iconoapp_round"
+24-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:17:7-49
+25        android:supportsRtl="true"
+25-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:18:7-33
+26        android:theme="@style/AppTheme.Posenet" >
+26-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:19:7-46
+27        <activity
+27-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:21:5-25:16
+28            android:name="org.tensorflow.lite.examples.posenet.TestActivity"
+28-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:22:9-37
+29            android:exported="true"
+29-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:24:9-32
+30            android:label="@string/tfe_pn_app_name" >
+30-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:23:9-48
+31        </activity>
+32        <activity
+32-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:27:5-32:16
+33            android:name="org.tensorflow.lite.examples.posenet.CameraActivity"
+33-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:27:15-45
+34            android:exported="true" >
+34-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:27:46-69
+35            <intent-filter>
+35-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:28:7-31:23
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:29:9-60
+36-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:29:17-58
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:30:9-68
+38-->C:\androidProyecto\androidProyecto\app\src\main\AndroidManifest.xml:30:19-66
+39            </intent-filter>
+40        </activity>
+41    </application>
+42
+43</manifest>

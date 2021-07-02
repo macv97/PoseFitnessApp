@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_action.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable\\action.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_tfl2_logo_dark.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo_dark.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_action_info.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_down.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_tfe_pn_activity_camera.xml.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\layout\\tfe_pn_activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_action_info.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_action_info.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_image.jpg.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_action_info.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_tfe_pn_activity_test.xml.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\layout\\tfe_pn_activity_test.xml"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_tfe_pn_activity_posenet.xml.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\layout\\tfe_pn_activity_posenet.xml"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+    },
+    {
+        "merged": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Escritorio\\Proyectos\\examples-master\\examples-master\\lite\\examples\\posenet\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.posenet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:10:3-15
+8        android:minSdkVersion="21"
+8-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:10:3-15
+9        android:targetSdkVersion="23" />
+9-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:10:3-15
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:5:3-63
+11-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:5:20-60
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:7:3-58
+13-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:7:17-55
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:8:3-68
+14-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:8:17-65
+15
+16    <application
+16-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:12:3-33:17
+17        android:allowBackup="true"
+17-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:13:7-33
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] C:\Users\macv2\.gradle\caches\transforms-2\files-2.1\0f6d3704d9260a8aadb632e373006138\core-1.1.0\AndroidManifest.xml:24:18-86
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:14:7-41
+20        android:label="@string/tfe_pn_app_name"
+20-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:15:7-46
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:16:7-52
+22        android:supportsRtl="true"
+22-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:17:7-33
+23        android:theme="@style/AppTheme.Posenet" >
+23-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:18:7-46
+24        <activity
+24-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:20:5-24:16
+25            android:name="org.tensorflow.lite.examples.posenet.TestActivity"
+25-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:21:9-37
+26            android:exported="true"
+26-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:23:9-32
+27            android:label="@string/tfe_pn_app_name" >
+27-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:22:9-48
+28        </activity>
+29        <activity
+29-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:26:5-31:16
+30            android:name="org.tensorflow.lite.examples.posenet.CameraActivity"
+30-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:26:15-45
+31            android:exported="true" >
+31-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:26:46-69
+32            <intent-filter>
+32-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:27:7-30:23
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:28:9-60
+33-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:28:17-58
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:29:9-68
+35-->D:\Escritorio\Proyectos\examples-master\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:29:19-66
+36            </intent-filter>
+37        </activity>
+38    </application>
+39
+40</manifest>
