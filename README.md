@@ -1,4 +1,4 @@
-# TensorFlow Lite PoseNet Android Demo
+# PoseFitnessApp
 ### Overview
 This is an app that continuously detects the body parts in the frames seen by
  your device's camera. These instructions walk you through building and running
